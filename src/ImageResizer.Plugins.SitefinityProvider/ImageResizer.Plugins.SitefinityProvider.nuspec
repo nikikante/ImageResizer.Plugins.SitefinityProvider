@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <projectUrl>https://github.com/nikikante/ImageResizer.Plugins.SitefinityProvider</projectUrl>
+    <licenseUrl>https://github.com/nikikante/ImageResizer.Plugins.SitefinityProvider/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Version with Sitefinty 6-10 support</releaseNotes>
+    <copyright>Copyright 2018 (c) Niki Kante</copyright>
+    <tags>Sitefinity Image Provider ImageResizing Resizing ImageResizer.Net</tags>
+    <dependencies>
+      <dependency id="Telerik.Sitefinity.Core" version="[4, 11.0)" />
+      <dependency id="ImageResizer" version="4.0.1" />
+      <dependency id="ImageResizer.WebConfig" version="4.0.1" />
+    </dependencies>
+  </metadata>
+</package>
