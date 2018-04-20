@@ -11,5 +11,5 @@ If there is no thumbnail name provided (eg: only tmb- in link), thumbnail name s
 Thumbnail name from url /images/default-source/first-page/image.tmb-thumb30.jpg would be thumb30
 
 ## Installation
-Just install NuGet package and it will register pligon for ImageResizer in order to serve and process images.
+Just install NuGet package and it will register plugin for ImageResizer in order to serve and process images.
  
